@@ -36,7 +36,8 @@ Loss: 0.0157
 
 Pe graficul acurateței, linia roșie reprezintă acuratețea în timpul antrenamentului, iar linia albastră reprezintă acuratețea în timpul validării
 # Matricea de confuzie
+Predicțiile corecte și tipurile de erori pe care le face modelul
 ![image](https://github.com/Iulian99/ConvolutionalNeuralNetwork_ClassificationECGSignals/assets/17321203/b30044a0-76ee-4918-acd0-3195a7708af6)
 
-# Curba ROC
+# Curba ROC - performanța modelului
 ![image](https://github.com/Iulian99/ConvolutionalNeuralNetwork_ClassificationECGSignals/assets/17321203/5acc2f18-9ce2-4d37-92d1-29c2467369b5)
