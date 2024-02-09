@@ -30,7 +30,11 @@ Class 4 = Q - Unknown Beats - bătăile care nu pot fi clasificate clar în nici
 
 # Evaluarea modelului
 ![image](https://github.com/Iulian99/ConvolutionalNeuralNetwork_ClassificationECGSignals/assets/17321203/72d18525-7929-4e34-ba3f-c4da20f064ae)
+Accuracy: 98.21%
 
+Loss: 0.0157
+
+Pe graficul acurateței, linia roșie reprezintă acuratețea în timpul antrenamentului, iar linia albastră reprezintă acuratețea în timpul validării
 # Matricea de confuzie
 ![image](https://github.com/Iulian99/ConvolutionalNeuralNetwork_ClassificationECGSignals/assets/17321203/b30044a0-76ee-4918-acd0-3195a7708af6)
 
