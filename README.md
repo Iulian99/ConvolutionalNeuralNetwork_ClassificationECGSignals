@@ -6,6 +6,7 @@ MIT-BIH Arrhythmia Database - https://physionet.org/content/mitdb/1.0.0/
 
 # Dataset
 Class 0 = N - Non-ecotic beats (normal beat) - bătăile inimii normale
+
 Class 1 = S - Supraventricular ectopic beats - contracții premature ale inimii care se originează în camerele superioare ale inimii (atriile)
 Class 2 = V - Ventricular ectopic beats - contracții premature
 Class 3 = F - Fusion Beats - combinație între o bătaie normală și o bătaie ectopică
